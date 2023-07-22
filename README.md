@@ -1,2 +1,2 @@
 # R-Studies-Online
-Codes from my learning online courses
+Codes of my online courses.
